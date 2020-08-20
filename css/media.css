@@ -306,7 +306,8 @@
         background: #89E3A3;
         color: #FFFFFF;
         border-radius: 50px;
-        padding: 20px 20px;
+        padding: 20px 30px;
+        transition: .5s;
     }
 
     .button--header--options:hover {
@@ -407,6 +408,8 @@
 
         background: #F3A14B;
         box-shadow: 0px 2.5px 3px 0.6px rgba(51, 51, 51, 0.25);
+
+        cursor: pointer;
     }
 
     .backgraund__img {
@@ -445,6 +448,8 @@
         color: #FFFFFF;
     
         border-radius: 50px;
+
+        transition: .5s;
     }
 
     .midle--button:hover {
@@ -601,6 +606,8 @@
         color: #FFFFFF;
         
         border-radius: 50px;
+
+        transition: .5s;
     }
 
     .button--footer--low:hover {
@@ -657,6 +664,8 @@
         color: #333333;
         font-size: px;
         cursor: pointer;
+
+        transition: .5s;
     }
 
     .footer--input--button:hover {
@@ -757,6 +766,7 @@
         color: #FFFFFF;
         border-radius: 50px;
         padding: 19.2px 26px;
+        transition: .5s;
     }
 
     .button--header--options:hover {
@@ -854,6 +864,8 @@
 
         background: #F3A14B;
         box-shadow: 0px 2.5px 3px 0.6px rgba(51, 51, 51, 0.25);
+
+        cursor: pointer;
     }
 
     .backgraund__img {
@@ -892,6 +904,8 @@
         color: #FFFFFF;
     
         border-radius: 50px;
+
+        transition: .5s;
     }
 
     .midle--button:hover {
@@ -1049,6 +1063,8 @@
         color: #FFFFFF;
         
         border-radius: 50px;
+
+        transition: .5s;
     }
 
     .button--footer--low:hover {
@@ -1103,6 +1119,7 @@
         color: #333333;
         font-size: 20px;
         cursor: pointer;
+        transition: .5s;
     }
     
     .footer--input--button:hover {
